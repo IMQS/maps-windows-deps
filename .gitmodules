@@ -1,3 +1,6 @@
 [submodule "vcpkg"]
 	path = vcpkg
 	url = https://github.com/IMQS/vcpkg.git
+[submodule "mapnik"]
+	path = mapnik
+	url = https://github.com/IMQS/mapnik-windows
